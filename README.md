@@ -1,2 +1,13 @@
-# frontend-knowledge-base
-basic knowledge for frontend
+
+# 前端知识库
+
+这是一个记录前端开发知识点的知识库项目，包含以下分类：
+
+- HTML
+- CSS 
+- JavaScript
+- 框架
+- 工具链
+- 性能优化
+- 安全
+- 设计模式
